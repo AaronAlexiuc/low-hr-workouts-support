@@ -4,7 +4,7 @@ Thank you for using Low HR Workouts!
 
 If you need help, found a bug, or have suggestions, please contact:
 
-📧 aaron@alexiuc.com
+📧 lowhrworkouts@gmail.com
 
 I aim to respond within 24–48 hours.
 
