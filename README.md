@@ -1,6 +1,6 @@
-Low HR Workouts – Support
+SteadyStrength – Support
 
-Thank you for using Low HR Workouts!
+Thank you for using SteadyStrength!
 
 If you need help, found a bug, or have suggestions, please contact:
 
