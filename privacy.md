@@ -1,8 +1,8 @@
-✅ LOW HR WORKOUTS — PRIVACY POLICY
+✅ SteadyStrength — PRIVACY POLICY
 
 Last updated: 26 November 2025
 
-Low HR Workouts (“the App”, “we”, “us”, “our”) is committed to protecting your privacy.
+SteadyStrength (“the App”, “we”, “us”, “our”) is committed to protecting your privacy.
 This Privacy Policy explains what information the App collects, how it is used, and the choices you have.
 
 The App is designed to provide low-intensity workouts and heart-rate-friendly training guidance.
@@ -56,7 +56,7 @@ You can disable personalized ads through your device settings.
 
 📌 2. What We Do NOT Collect
 
-Low HR Workouts does NOT:
+SteadyStrength does NOT:
 	•	Track your exact GPS location
 	•	Access your contacts, photos, or files
 	•	Collect your name, phone number, or email
